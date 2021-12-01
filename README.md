@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm Chu Yin (or Cheryl), a 10th grader from Texas. I'm 15 and go by she/her pronouns.
+I'm Chu Yin (or Cheryl), a 10th grader from Texas. I'm 15 and go by any pronouns.
 
 I want to learn more about open source software, machine learning and back end development. I can do some basic programming in Python and Java, and I have some web development experience with React and Flask.
 
