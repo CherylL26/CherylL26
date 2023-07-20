@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm Chu Yin (or Cheryl), an 11th grader from Texas. I'm 16.
+I'm Chu Yin (or Cheryl), a rising senior high school student from Texas.
 
 I want to learn more about open source software, machine learning and back end development. I can do some programming in Python, C++ and Java, and I have some web development experience with React and Flask.
 
